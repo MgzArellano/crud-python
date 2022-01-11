@@ -2,8 +2,17 @@ body{
     color: red;
     text-align: left;
     font-family:cursive;
-    background-color:beige;
+    background-color:ghostwhite;
 }
+
+#cabecera{
+    background-color: gold;
+    color: purple;
+    font-size: x-large;
+    margin: 0px;
+    padding: 0.5em;
+}
+
 
 #container{
     width: 70%;
