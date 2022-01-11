@@ -1,9 +1,18 @@
 body{
     color: red;
     text-align: left;
-    font-family:'Courier New', Courier, monospace;
-    background-color:beige;
+    font-family:cursive;
+    background-color:ghostwhite;
 }
+
+#cabecera{
+    background-color: gold;
+    color: purple;
+    font-size: x-large;
+    margin: 0px;
+    padding: 0.5em;
+}
+
 
 #container{
     width: 70%;
